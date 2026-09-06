@@ -87,9 +87,6 @@ structural surface resolution and the specialised agent suite, then the sandbox 
   <a href="https://github.com/patelharsh6/University_ERP_System">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=patelharsh6&repo=University_ERP_System&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/patelharsh6/GearGuard">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=patelharsh6&repo=GearGuard&theme=tokyonight&hide_border=true" />
-  </a>
 </p>
 
 ### 🏥 [HealthSphere](https://github.com/patelharsh6/Health_Sphere) — Digital Healthcare Platform
@@ -157,6 +154,7 @@ Smaller builds and experiments — CV for crop disease detection, a credit scori
 ![DSA](https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-E34F26?style=for-the-badge&logo=thealgorithms&logoColor=white)
 ![OOP](https://img.shields.io/badge/OBJECT--ORIENTED%20PROGRAMMING-0078D4?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/DEEP%20LEARNING-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Operating Systems](https://img.shields.io/badge/OPERATING%20SYSTEMS-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
 ![System Design](https://img.shields.io/badge/SYSTEM%20DESIGN-6A0DAD?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-00758F?style=for-the-badge&logo=databricks&logoColor=white)
@@ -211,19 +209,9 @@ Smaller builds and experiments — CV for crop disease detection, a credit scori
 <!-- ===================== STATS ===================== -->
 ## 📊 GitHub Dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=patelharsh6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=patelharsh6&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=patelharsh6&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=10" width="42%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patelharsh6&theme=tokyonight&utcOffset=5.5" width="42%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patelharsh6&theme=tokyonight" width="42%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patelharsh6&theme=tokyonight" width="42%" />
 </div>
 
 <div align="center">
