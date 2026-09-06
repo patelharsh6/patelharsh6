@@ -1,25 +1,22 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:8A2BE2&height=200&section=header&text=HARSHKUMAR%20PATEL&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20%C2%B7%20Full-Stack%20%C2%B7%20Applied%20ML&descSize=18&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:8A2BE2&height=200&section=header&text=HARSHKUMAR%20PATEL&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20Engineer&descSize=18&descAlignY=62" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3200&pause=900&color=0078D4&center=true&vCenter=true&width=720&lines=Backend+%26+Full-Stack+Engineer;CSE+(AI+%26+ML)+%40+Adani+University;Building+GitKeeper+%E2%80%94+an+AI+code+reviewer;FastAPI+%C2%B7+Django+%C2%B7+Node.js+%C2%B7+React+%C2%B7+PyTorch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3200&pause=900&color=0078D4&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+AI%2FML+Engineer;CSE+(AI+%26+ML)+%40+Adani+University;Building+GitKeeper+%E2%80%94+an+AI+code+reviewer;Python+%C2%B7+PyTorch+%C2%B7+FastAPI+%C2%B7+Node.js+%C2%B7+React" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/patelharsh6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pharsh0106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/patelharsh6/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://github.com/patelharsh6/patelharsh6/blob/main/Harshkumar_Patel_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-34ADFF?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patelharsh6&label=PROFILE+VIEWS&color=0078D4&style=flat-square" alt="Profile views" />
-  &nbsp;
   <img src="https://img.shields.io/badge/📍_Ahmedabad,_India-555?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open_to-Backend_%2F_Full--Stack_%2F_ML_roles-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_to-Software_Engineering_%2F_AI--ML_roles-2ea44f?style=flat-square" />
 </p>
 
 ---
@@ -27,23 +24,21 @@
 <!-- ===================== ABOUT ===================== -->
 ## 🧠 About Me
 
-I build backend-heavy full-stack systems and, increasingly, applied-ML systems — the kind where the interesting
-work sits in the data pipeline, the access-control boundary, or the retrieval index rather than the UI.
+I'm a software engineer who builds production systems, and an AI/ML engineer who builds the models and pipelines
+that go inside them. The work I care about lives where those two meet — a CLIP retrieval index that has to answer
+in milliseconds, an OCR pipeline that has to be right, an LLM agent that has to be sandboxed before it can be trusted.
 
 ```yaml
 name:      Harshkumar Patel
-role:      Backend Developer Intern @ Small Fare
 education: B.Tech CSE (AI & ML), Adani University · 2023–2027 · CGPA 7.69
 building:  GitKeeper — an AI pull-request reviewer that must prove every finding
 learning:  vector search · LLM agent architecture · MLOps
-strengths: [ REST API design, RBAC & auth, query optimisation, DSA ]
 reach_me:  pharsh0106@gmail.com
 ```
 
 - 💼 **Backend Developer Intern @ Small Fare** — Node.js / Express / PostgreSQL services for the organizer module; automated cron workflows for payment processing and settlement updates.
 - 🔭 **Currently building [GitKeeper](#-currently-building-gitkeeper)** — see below.
 - 🧩 **345 problems solved on LeetCode** (195 easy · 131 medium · 19 hard).
-- 🏆 Cyber Samwad Cyber Security Awareness Event · Odoo Hackathon.
 
 ---
 
@@ -82,18 +77,18 @@ structural surface resolution and the specialised agent suite, then the sandbox 
 
 <p align="center">
   <a href="https://github.com/patelharsh6/Health_Sphere">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patelharsh6&repo=Health_Sphere&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=patelharsh6&repo=Health_Sphere&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/patelharsh6/Style-Match">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patelharsh6&repo=Style-Match&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=patelharsh6&repo=Style-Match&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/patelharsh6/University_ERP_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patelharsh6&repo=University_ERP_System&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=patelharsh6&repo=University_ERP_System&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/patelharsh6/GearGuard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=patelharsh6&repo=GearGuard&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=patelharsh6&repo=GearGuard&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -147,16 +142,24 @@ Smaller builds and experiments — CV for crop disease detection, a credit scori
 <!-- ===================== TECH ===================== -->
 ## 🛠️ Technical Skills
 
-**🖥️ Languages & Core CS**
+**🖥️ Languages**
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-E34F26?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**📚 Computer Science Fundamentals**
+
+![DSA](https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-E34F26?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![OOP](https://img.shields.io/badge/OBJECT--ORIENTED%20PROGRAMMING-0078D4?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/OPERATING%20SYSTEMS-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
 ![System Design](https://img.shields.io/badge/SYSTEM%20DESIGN-6A0DAD?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-blue?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-00758F?style=for-the-badge&logo=databricks&logoColor=white)
 
 **🌐 Frontend**
 
@@ -164,9 +167,6 @@ Smaller builds and experiments — CV for crop disease detection, a credit scori
 ![Redux](https://img.shields.io/badge/REDUX-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Cypress](https://img.shields.io/badge/CYPRESS-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 **⚙️ Backend & APIs**
 
@@ -174,7 +174,6 @@ Smaller builds and experiments — CV for crop disease detection, a credit scori
 ![Express](https://img.shields.io/badge/EXPRESS-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/CELERY-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Microservices](https://img.shields.io/badge/MICROSERVICES-FF6C37?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -197,7 +196,6 @@ Smaller builds and experiments — CV for crop disease detection, a credit scori
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-grey?style=for-the-badge)
 
 **☁️ Cloud, DevOps & Tools**
 
@@ -207,7 +205,6 @@ Smaller builds and experiments — CV for crop disease detection, a credit scori
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -215,30 +212,23 @@ Smaller builds and experiments — CV for crop disease detection, a credit scori
 ## 📊 GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patelharsh6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=patelharsh6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=patelharsh6&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelharsh6&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=10" width="42%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=patelharsh6&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=10" width="42%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patelharsh6&theme=tokyonight&utcOffset=5.5" width="42%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patelharsh6&theme=tokyonight" width="42%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patelharsh6&theme=tokyonight" width="42%" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patelharsh6&theme=tokyonight" width="90%" />
 </div>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patelharsh6&theme=tokyo-night&hide_border=true&area=true&area_color=0078D4&line=0078D4&point=8A2BE2&color=8A2BE2" width="95%" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=patelharsh6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
 
 ---
 
@@ -276,7 +266,7 @@ Smaller builds and experiments — CV for crop disease detection, a credit scori
 
 **🌱 Interests**
 
-- 🤖 **Applied ML & LLM systems** — retrieval, embeddings, agent sandboxing, structured output, evaluation harnesses.
+- 🤖 **AI engineering** — taking models to production: embedding pipelines, vector retrieval, LLM agent design (tool allowlists, sandboxing, structured output), and evaluation harnesses that measure whether any of it actually works.
 - ⚙️ **Backend engineering** — API design, auth & RBAC boundaries, query optimisation, background job pipelines.
 - 🧱 **System design** — service boundaries that hold because a test enforces them, not because a doc says so.
 - 🔐 **Security-minded development** — object-level access control, secret hygiene, rate limiting.
@@ -286,22 +276,6 @@ Smaller builds and experiments — CV for crop disease detection, a credit scori
 - Vector databases beyond FAISS (Qdrant migration path for StyleMatch).
 - Celery semantics under load — `acks_late`, visibility timeouts, revocation.
 - Sandbox isolation for running untrusted code.
-
-</details>
-
-<details>
-<summary><b>📄 Résumé — view or download</b></summary>
-<br />
-
-<p align="left">
-  <a href="https://github.com/patelharsh6/patelharsh6/blob/main/Harshkumar_Patel_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View_Résumé-34ADFF?style=for-the-badge&logo=readdotcv&logoColor=white" height="38px" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/patelharsh6/patelharsh6/raw/main/Harshkumar_Patel_Resume.pdf">
-    <img src="https://img.shields.io/badge/Download_⬇️-0078D4?style=for-the-badge&logoColor=white" height="38px" />
-  </a>
-</p>
 
 </details>
 
