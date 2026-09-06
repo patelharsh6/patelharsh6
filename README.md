@@ -209,9 +209,8 @@ Smaller builds and experiments — CV for crop disease detection, a credit scori
 <!-- ===================== STATS ===================== -->
 ## 📊 GitHub Dashboard
 
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patelharsh6&theme=tokyonight&utcOffset=5.5" width="42%" />
+  <img src="https://streak-stats.demolab.com/?user=patelharsh6&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 </div>
 
 <div align="center">
