@@ -13,12 +13,6 @@
   <a href="https://leetcode.com/u/patelharsh6/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Ahmedabad,_India-555?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open_to-Software_Engineering_%2F_AI--ML_roles-2ea44f?style=flat-square" />
-</p>
-
 ---
 
 <!-- ===================== ABOUT ===================== -->
